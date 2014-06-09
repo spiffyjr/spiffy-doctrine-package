@@ -1,12 +1,12 @@
 {
-    "name": "spiffy/spiffy-assetic-package",
+    "name": "spiffy/spiffy-doctrine-package",
     "authors": [
         {
             "name": "Kyle Spraggs",
             "email": "theman@spiffyjr.me"
         }
     ],
-    "description": "Spiffy\\DoctrineORMPackage is a package for SpiffyFramework that integrates reusable Doctrine core features.",
+    "description": "Spiffy\\DoctrinePackage is a package for SpiffyFramework that integrates reusable Doctrine core features.",
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.4"
